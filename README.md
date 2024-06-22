@@ -43,7 +43,7 @@ It utilizes a precomputed similarity matrix to suggest similar movies and fetche
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 
