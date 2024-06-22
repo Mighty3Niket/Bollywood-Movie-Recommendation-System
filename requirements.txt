@@ -1,0 +1,6 @@
+streamlit
+pandas
+pickle
+scikit-learn == 1.2.2
+ast
+nltk
